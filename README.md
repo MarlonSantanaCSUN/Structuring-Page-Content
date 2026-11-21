@@ -1,1 +1,1 @@
-https://marlonsantanacsun.github.io/COMP-484-L-HW2/
+https://marlonsantanacsun.github.io/Structuring-Page-Content/
